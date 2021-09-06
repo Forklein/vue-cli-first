@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  components: "Hero",
+  name: "Hero",
   data() {
     return {
       author: "Forklein",
